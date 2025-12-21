@@ -1,0 +1,12 @@
+layer_name,shape_accuracy,structural_completeness,detail_retention,final_score
+down_blocks.1.attentions.0.png,2.116,2.046,0,1.672
+down_blocks.1.attentions.1.png,2.347,2.228,0,1.842
+down_blocks.2.attentions.0.png,2.252,2.725,0,1.943
+down_blocks.2.attentions.1.png,1.948,2.239,0,1.646
+mid_block.attentions.0.png,2.276,2.325,0,1.836
+up_blocks.0.attentions.0.png,1.941,2.51,0,1.724
+up_blocks.0.attentions.1.png,3.986,3.542,0,3.055
+up_blocks.0.attentions.2.png,2.316,2.269,0,1.838
+up_blocks.1.attentions.0.png,1.982,2.006,0,1.593
+up_blocks.1.attentions.1.png,2.054,2.168,0,1.677
+up_blocks.1.attentions.2.png,2.047,2.112,0,1.657
